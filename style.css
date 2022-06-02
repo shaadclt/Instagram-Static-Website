@@ -1,0 +1,195 @@
+.main{
+    display:flex;
+    align-items:top;
+    margin-left:263px;
+    margin-top:30px;
+}
+
+
+.details{
+    margin-right:200px;
+    width: 360px;
+}
+
+.logod{
+    margin-top: 50px;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.user-details{
+    border: 1px solid rgb(221, 220, 220);
+    height: 400px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.form1d{
+    margin-top:30px;
+    width:100px;
+    padding-left:41px;
+}
+
+.input1{
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    height:25px;
+    border: 1px solid rgb(221, 220, 220);
+}
+
+.form2d{
+    margin-top:10px;
+}
+
+
+.input2{
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    height:25px;
+    border: 1px solid rgb(221, 220, 220);
+}
+
+
+.login-button{
+    margin-top:15px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width:260px;
+    height: 30px;
+    color: white;
+    background-color: rgba(0,149,246,.3);
+    border-color: white;
+    border-radius: 6px;
+    border: 0px;
+}
+
+.ord{
+    width:260px;
+    margin-left:30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: rgb(221, 220, 220);
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.loginwithfbd{
+    display:flex;
+    align-content: center;
+    margin-left: 100px;
+    vertical-align: top;
+}
+
+.fblogo{
+    padding-top:2px;
+    width:15px;
+}
+
+.fblogin{
+    font-family: sans-serif;
+    font-size: 13px;
+    padding-left:10px;
+    color: #385185;
+    text-decoration: none;
+}
+
+.resetpwdd{
+    margin-top:20px;
+    margin-left: 115px;
+}
+
+.resetpwd{
+    font-family: sans-serif;
+    font-size: 13px;
+    color: #385185;
+    text-decoration: none;
+}
+
+.signupd{
+    margin-top:10px;
+    border: 1px solid rgb(221, 220, 220);
+    text-align: center;
+    margin-left:20px;
+}
+
+.signup-text{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #262626;;
+}
+
+.signup-link{
+    font-family: sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.gettheappd{
+    text-align: center;
+    font-family: calibri;
+    font-size: 14px;
+    color: #262626;;
+}
+
+.storesd{
+    display:flex;
+    margin-left:40px;
+}
+
+.apple{
+    width: 140px;
+
+}
+
+.google{
+    width: 135px;
+    margin-left:10px;
+}
+
+.footer1d{
+    margin-top:40px;
+    display: flex;
+    justify-content: space-evenly;
+    color: #8e8e8e;
+    font-family: sans-serif;
+    font-size: 13.5px;
+    width:885px;
+    margin-left: auto;
+    margin-right: auto;
+    height:25px;
+}
+
+.footer2d{
+    height:30px;
+    padding:0;
+    display: flex;
+    justify-content: space-evenly;
+    color: #8e8e8e;
+    font-family: sans-serif;
+    font-size: 13.5px;
+    width:400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer3d{
+    display: flex;
+    justify-content: space-evenly;
+    color: #8e8e8e;
+    font-family: sans-serif;
+    font-size: 13.5px;
+    width:250px;
+    margin-left: auto;
+    margin-right: auto;
+}
